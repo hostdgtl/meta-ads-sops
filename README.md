@@ -1,79 +1,58 @@
 # Meta Ads SOP Library
 
-A structured knowledge base built from [Jon Loomer's](https://www.jonloomer.com/) free Meta advertising content. Each SOP is a single-page, scannable reference covering one core topic — what it is, why it matters, common mistakes, and how to apply it.
+A living knowledge base built from [Jon Loomer's](https://www.jonloomer.com/) free Meta advertising content. Each SOP is a single-page, scannable reference covering one core topic — what it is, why it matters, common mistakes, and how to apply it.
 
-**Purpose:** Build reusable Meta Ads expertise to support Shopify D2C client acquisition and paid social strategy.
+**Pull this repo before every new Meta Ads campaign.** It serves as the strategic foundation for how we structure, target, create, measure, and troubleshoot ads. The library auto-updates weekly as Jon Loomer publishes new content — so every campaign starts with the latest thinking.
 
-**Attribution:** All content is derived from Jon Loomer's publicly available blog posts, free mini-courses (Andromeda, Modern Targeting, Audience Segments), and newsletter content. Jon Loomer has been educating Meta advertisers since 2011.
+**Attribution:** All content is derived from Jon Loomer's publicly available blog posts, free mini-courses (Andromeda, Modern Targeting, Audience Segments), and newsletter content.
 
 ---
 
-## Library Structure
+## SOP Library
 
-Organized into 5 categories mirroring Jon Loomer's Ad Briefs framework (23 topics + glossary).
+Organized into 5 categories mirroring Jon Loomer's Ad Briefs framework.
 
 ### 01 — Campaign Strategy & Structure
 
-| SOP | Status |
-|-----|--------|
-| [Simplified Campaign Construction](01-campaign-strategy-structure/simplified-campaign-construction.md) | Complete |
-| [Advertising Philosophies](01-campaign-strategy-structure/advertising-philosophies.md) | Complete |
-| [Budget Management](01-campaign-strategy-structure/budget-management.md) | Complete |
-| [Value Rules](01-campaign-strategy-structure/value-rules.md) | Complete |
+- [Simplified Campaign Construction](01-campaign-strategy-structure/simplified-campaign-construction.md)
+- [Advertising Philosophies](01-campaign-strategy-structure/advertising-philosophies.md)
+- [Budget Management](01-campaign-strategy-structure/budget-management.md)
+- [Value Rules](01-campaign-strategy-structure/value-rules.md)
 
 ### 02 — Targeting & Audiences
 
-| SOP | Status |
-|-----|--------|
-| [General Targeting Approach](02-targeting-audiences/general-targeting-approach.md) | Complete |
-| [Age and Gender Restrictions](02-targeting-audiences/age-and-gender-restrictions.md) | Complete |
-| [Detailed Targeting and Lookalike Audiences](02-targeting-audiences/detailed-targeting-and-lookalike-audiences.md) | Complete |
-| [Remarketing](02-targeting-audiences/remarketing.md) | Complete |
-| [Audience Segments](02-targeting-audiences/audience-segments.md) | Complete |
-| [Audience Controls](02-targeting-audiences/audience-controls.md) | Complete |
+- [General Targeting Approach](02-targeting-audiences/general-targeting-approach.md)
+- [Age and Gender Restrictions](02-targeting-audiences/age-and-gender-restrictions.md)
+- [Detailed Targeting and Lookalike Audiences](02-targeting-audiences/detailed-targeting-and-lookalike-audiences.md)
+- [Remarketing](02-targeting-audiences/remarketing.md)
+- [Audience Segments](02-targeting-audiences/audience-segments.md)
+- [Audience Controls](02-targeting-audiences/audience-controls.md)
 
 ### 03 — Creative & Ads
 
-| SOP | Status |
-|-----|--------|
-| [Ad Creation](03-creative-ads/ad-creation.md) | Complete |
-| [Creative Testing](03-creative-ads/creative-testing.md) | Complete |
-| [Lead Generation](03-creative-ads/lead-generation.md) | Complete |
-| [Placements](03-creative-ads/placements.md) | Complete |
-| [Meta Andromeda](03-creative-ads/meta-andromeda.md) | Complete |
+- [Ad Creation](03-creative-ads/ad-creation.md)
+- [Creative Testing](03-creative-ads/creative-testing.md)
+- [Lead Generation](03-creative-ads/lead-generation.md)
+- [Placements](03-creative-ads/placements.md)
+- [Meta Andromeda](03-creative-ads/meta-andromeda.md)
 
 ### 04 — Measurement & Reporting
 
-| SOP | Status |
-|-----|--------|
-| [Attribution Optimization](04-measurement-reporting/attribution-optimization.md) | Complete |
-| [Conversion Reporting](04-measurement-reporting/conversion-reporting.md) | Complete |
-| [Conversion Tracking](04-measurement-reporting/conversion-tracking.md) | Complete |
-| [Breakdowns](04-measurement-reporting/breakdowns.md) | Complete |
-| [Breakdown Effect](04-measurement-reporting/breakdown-effect.md) | Complete |
+- [Attribution Optimization](04-measurement-reporting/attribution-optimization.md)
+- [Conversion Reporting](04-measurement-reporting/conversion-reporting.md)
+- [Conversion Tracking](04-measurement-reporting/conversion-tracking.md)
+- [Breakdowns](04-measurement-reporting/breakdowns.md)
+- [Breakdown Effect](04-measurement-reporting/breakdown-effect.md)
 
 ### 05 — Diagnostics & Updates
 
-| SOP | Status |
-|-----|--------|
-| [Common Advertiser Mistakes](05-diagnostics-updates/common-advertiser-mistakes.md) | Complete |
-| [Ad Performance Troubleshooting](05-diagnostics-updates/ad-performance-troubleshooting.md) | Complete |
-| [Ads Manager Updates](05-diagnostics-updates/ads-manager-updates.md) | Complete |
+- [Common Advertiser Mistakes](05-diagnostics-updates/common-advertiser-mistakes.md)
+- [Ad Performance Troubleshooting](05-diagnostics-updates/ad-performance-troubleshooting.md)
+- [Ads Manager Updates](05-diagnostics-updates/ads-manager-updates.md)
 
 ### Glossary
 
-| Resource | Status |
-|----------|--------|
-| [Meta Ads Glossary](glossary/glossary.md) | Complete |
-
----
-
-## Completion Tracker
-
-- **Total SOPs:** 23 + Glossary
-- **Completed:** 24 / 24
-- **In Progress:** 0
-- **Remaining:** 0
+- [Meta Ads Glossary](glossary/glossary.md)
 
 ---
 
@@ -111,6 +90,12 @@ See [Tools & Technology Reference](tools-reference.md) for approved AI tools and
 
 ---
 
+## Keeping This Library Updated
+
+This repo is automatically scraped weekly (Mondays at 9AM) via a Nimbalyst automation that monitors jonloomer.com for new content. When Jon Loomer publishes updates to his courses, blog, or briefs, the relevant SOPs get updated and pushed here. New topics get added as new SOPs.
+
+---
+
 ## SOP Format
 
 Each SOP follows a consistent single-page format:
@@ -128,14 +113,4 @@ See the [SOP Template](templates/sop-template.md) for the full markdown structur
 
 ---
 
-## How to Contribute
-
-1. Study the relevant Jon Loomer content (blog post, course lesson, newsletter)
-2. Copy `templates/sop-template.md` into the appropriate category folder
-3. Fill in each section with concise, actionable content
-4. Update the status in this README from "Placeholder" to "Complete"
-5. Commit with message: `Add: [topic-name] SOP`
-
----
-
-*Built by Host Digital as a Meta Ads learning reference.*
+*Built by Host Digital as a Meta Ads campaign reference. Pull before every campaign.*
