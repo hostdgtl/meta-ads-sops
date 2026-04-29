@@ -77,6 +77,32 @@ Organized into 5 categories mirroring Jon Loomer's Ad Briefs framework (23 topic
 
 ---
 
+## AI-Driven Creative Process
+
+The SOP library above is the **knowledge foundation**. The creative process applies it to produce and iterate on ads at scale.
+
+| Doc | Description |
+|-----|-------------|
+| [Process Overview](process/README.md) | The 3-phase workflow, Ad Family model, guiding principles |
+| [Phase 1: Research & Magic Brief](process/phase-1-research-magic-brief.md) | Customer language mining, competitor benchmarking, Master Brief |
+| [Phase 2: Modular Production](process/phase-2-modular-production.md) | Visual production, copy matrix, video formats |
+| [Phase 3: The Feedback Loop](process/phase-3-feedback-loop.md) | Creative scoring, element isolation, expand vs. explore |
+
+### Templates
+
+| Template | Purpose |
+|----------|---------|
+| [Master Brief](templates/master-brief-template.md) | Structured creative brief with hooks, audience, and competitor insights |
+| [Copy Matrix](templates/copy-matrix-template.md) | 20+ copy variants across emotional registers per hook |
+| [Creative Scoring](templates/creative-scoring-template.md) | Performance scoring log to isolate winning elements |
+| [Competitor Benchmark](templates/competitor-benchmark-template.md) | Meta Ad Library competitor audit checklist |
+
+### Tools & Technology
+
+See [Tools & Technology Reference](tools-reference.md) for approved AI tools and SaaS inspiration.
+
+---
+
 ## Free Courses (Study Order)
 
 1. **Andromeda** — [jonloomer.com/andromeda-subscribe](https://www.jonloomer.com/andromeda-subscribe/) — How Meta's retrieval engine works
