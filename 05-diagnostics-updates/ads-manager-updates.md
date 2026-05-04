@@ -1,6 +1,6 @@
 # Ads Manager Updates
 
-> **Source:** Jon Loomer | **Last Updated:** 2026-04-28 | **Status:** Complete
+> **Source:** Jon Loomer | **Last Updated:** 2026-04-30 | **Status:** Complete
 
 ---
 
@@ -25,6 +25,7 @@ Panicking when the UI changes wastes time. Core advertising concepts remain stab
 - **Existing Customer Budget Cap Removed:** No longer available in Advantage+ Shopping/Sales Campaigns
 - **6-Ad Recommendation Removed:** Meta no longer suggests a maximum of 6 ads per ad set
 - **Meta AI Business Assistant:** New AI-powered assistant for advertiser support
+- **Meta Ads AI Connectors (Open Beta, April 2026):** Allows advertisers to manage campaigns through third-party AI agents (ChatGPT, Claude, etc.) using the MCP (Model Context Protocol) standard. Connect by adding `mcp.facebook.com/ads` as a custom connector and signing in with your Meta account — no developer credentials or coding required. Supports four capabilities: reporting/insights, campaign creation and editing, product catalog management, and signal/CAPI diagnostics
 
 ### How to Stay Current
 1. Follow Loomer's blog — weekly "Advertiser Field Notes" posts cover all significant changes
@@ -63,6 +64,7 @@ Panicking when the UI changes wastes time. Core advertising concepts remain stab
 - [One-Click Conversions API, Pixel Updates, and More](https://www.jonloomer.com/one-click-conversions-api-pixel-updates/)
 - [Meta AI Business Assistant and Tracking Updates](https://www.jonloomer.com/meta-ai-business-assistant/)
 - [Ads Manager Changes](https://www.jonloomer.com/facebook-ads-manager-changes/)
+- [Meta Ads AI Connectors, App Usage Drops, and More](https://www.jonloomer.com/meta-ads-ai-connectors/)
 
 ---
 
