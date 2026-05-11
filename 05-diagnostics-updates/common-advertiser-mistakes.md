@@ -1,6 +1,6 @@
 # Common Advertiser Mistakes
 
-> **Source:** Jon Loomer | **Last Updated:** 2026-04-28 | **Status:** Complete
+> **Source:** Jon Loomer | **Last Updated:** 2026-05-11 | **Status:** Complete
 
 ---
 
@@ -36,6 +36,8 @@ Avoiding these mistakes is often more impactful than learning new tactics. Most 
 
 10. **Making changes too quickly.** Not giving campaigns enough time to exit the learning phase before judging results
 
+11. **Falling for partner request scams.** Scammers send fake Meta invitations to "test" new products (e.g., fake ChatGPT ad beta access via Test Flight) to steal account credentials or personal information. If you receive an unsolicited invitation to test a new Meta or third-party ad product, verify it through official Meta Business channels before clicking anything or entering credentials
+
 ## Common Mistakes
 
 - Reading this list and not auditing your own account against it
@@ -65,6 +67,7 @@ Avoiding these mistakes is often more impactful than learning new tactics. Most 
 - [6 Targeting Mistakes Advertisers Make](https://www.jonloomer.com/6-targeting-mistakes-advertisers-make/)
 - [19 Rules of Successful Meta Advertising](https://www.jonloomer.com/19-rules-of-successful-meta-advertising/)
 - [Common Attribution Mistakes](https://www.jonloomer.com/common-attribution-mistakes/)
+- [ChatGPT Ads Go Self-Serve, Purchase Retention Expands, and More](https://www.jonloomer.com/chatgpt-ads-self-serve/)
 
 ---
 

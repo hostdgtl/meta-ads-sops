@@ -1,6 +1,6 @@
 # Audience Segments
 
-> **Source:** Jon Loomer | **Last Updated:** 2026-04-28 | **Status:** Complete
+> **Source:** Jon Loomer | **Last Updated:** 2026-05-11 | **Status:** Complete
 
 ---
 
@@ -28,7 +28,8 @@ This feature transformed Loomer's entire approach. Seeing that 20-30% of budget 
 
 ### Existing Customers
 - Be precise — these are paying customers
-- Use purchase event website custom audience (180 days) + email list of all buyers
+- Use purchase event website custom audience + email list of all buyers
+- As of May 18, 2026, purchase event custom audiences support up to **730 days** retention (previously capped at 180 days). Existing 180-day purchase audiences auto-update to 730 days on that date — opt out in Audience Manager before May 18 if you want to keep the shorter window
 - Sync with a third-party tool (e.g., Make/Zapier) to keep the list current
 - Don't need separate CAs per product — one comprehensive list works
 
@@ -85,6 +86,7 @@ This feature transformed Loomer's entire approach. Seeing that 20-30% of budget 
 - [Audience Segments 1 Course — Lesson 4: Defining Existing Customers](https://www.jonloomer.com/audience-segments-4)
 - [Audience Segments 1 Course — Lesson 5: Using the Breakdown](https://www.jonloomer.com/audience-segments-5)
 - [Audience Segments Overview](https://www.jonloomer.com/audience-segments/)
+- [ChatGPT Ads Go Self-Serve, Purchase Retention Expands, and More](https://www.jonloomer.com/chatgpt-ads-self-serve/)
 
 ---
 

@@ -1,6 +1,6 @@
 # Ads Manager Updates
 
-> **Source:** Jon Loomer | **Last Updated:** 2026-04-30 | **Status:** Complete
+> **Source:** Jon Loomer | **Last Updated:** 2026-05-11 | **Status:** Complete
 
 ---
 
@@ -14,9 +14,12 @@ Panicking when the UI changes wastes time. Core advertising concepts remain stab
 
 ## How It Works
 
-### Recent Notable Changes (as of April 2026)
+### Recent Notable Changes (as of May 2026)
 
-- **One-Click Conversions API:** Simplified CAPI setup for supported platforms — no developer needed
+- **Meta Ads AI Connectors (open beta):** Allows advertisers to manage campaigns through third-party AI agents (ChatGPT, Claude, etc.) using the MCP standard. Connect by adding `mcp.facebook.com/ads` as a custom connector and signing in with your Meta account — no developer credentials or coding required. Supports four capabilities: reporting/insights, campaign creation and editing, product catalog management, and signal/CAPI diagnostics. Access is not yet universal. Jon Loomer recommends caution — prior unapproved AI integrations triggered account shutdowns; wait until you're comfortable before implementing
+- **Purchase Audience Retention Expanded to 730 Days:** Starting May 18, 2026, website/app activity custom audiences based on purchase events can be retained for up to 730 days (previously 180 days). Existing 180-day purchase audiences auto-update to 730 days on that date — opt out in Audience Manager beforehand if needed
+- **Higher-Quality Clicks for Link Click / Landing Page View Optimizations:** Meta's documentation now states it "may prioritize higher-quality clicks" when optimizing for link clicks or landing page views. These optimizations have historically driven low-quality traffic via Audience Network — this signals an intent to improve that
+- **One-Click Conversions API:** Simplified CAPI setup for supported platforms — no developer needed (continues expanding)
 - **Pixel Upgrades:** Enhanced tracking capabilities and setup flow
 - **Value Rules for Audiences:** New feature allowing bid multipliers by custom audience, age, or gender
 - **Dynamic Creative Changes:** Evolution of the Dynamic Creative feature into Flexible Format
@@ -25,7 +28,6 @@ Panicking when the UI changes wastes time. Core advertising concepts remain stab
 - **Existing Customer Budget Cap Removed:** No longer available in Advantage+ Shopping/Sales Campaigns
 - **6-Ad Recommendation Removed:** Meta no longer suggests a maximum of 6 ads per ad set
 - **Meta AI Business Assistant:** New AI-powered assistant for advertiser support
-- **Meta Ads AI Connectors (Open Beta, April 2026):** Allows advertisers to manage campaigns through third-party AI agents (ChatGPT, Claude, etc.) using the MCP (Model Context Protocol) standard. Connect by adding `mcp.facebook.com/ads` as a custom connector and signing in with your Meta account — no developer credentials or coding required. Supports four capabilities: reporting/insights, campaign creation and editing, product catalog management, and signal/CAPI diagnostics
 
 ### How to Stay Current
 1. Follow Loomer's blog — weekly "Advertiser Field Notes" posts cover all significant changes
@@ -65,6 +67,8 @@ Panicking when the UI changes wastes time. Core advertising concepts remain stab
 - [Meta AI Business Assistant and Tracking Updates](https://www.jonloomer.com/meta-ai-business-assistant/)
 - [Ads Manager Changes](https://www.jonloomer.com/facebook-ads-manager-changes/)
 - [Meta Ads AI Connectors, App Usage Drops, and More](https://www.jonloomer.com/meta-ads-ai-connectors/)
+- [Meta Ads AI Connectors and Claude: Setup, Uses, and Risks](https://www.jonloomer.com/meta-ads-ai-connectors-claude/)
+- [ChatGPT Ads Go Self-Serve, Purchase Retention Expands, and More](https://www.jonloomer.com/chatgpt-ads-self-serve/)
 
 ---
 
