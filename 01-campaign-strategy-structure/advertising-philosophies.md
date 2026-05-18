@@ -1,6 +1,6 @@
 # Advertising Philosophies
 
-> **Source:** Jon Loomer | **Last Updated:** 2026-04-28 | **Status:** Complete
+> **Source:** Jon Loomer | **Last Updated:** 2026-05-18 | **Status:** Complete
 
 ---
 
@@ -19,6 +19,7 @@ Your philosophy determines every tactical decision. Advertisers clinging to outd
 3. **Simplify structure, deepen creative.** Spend less time on campaign architecture and more on diverse, compelling ads
 4. **"It depends" is the right answer.** Avoid one-size-fits-all rules. Context matters
 5. **Don't blame the system for bad ads.** If results are poor, look at your creative and offer first
+6. **AI is a tool, not a replacement — for now.** Zuckerberg has stated that the end goal is full automation: advertiser provides a business objective and budget, Meta does the rest. The building blocks (AI creative, automated targeting, AI Connectors) are actively being rolled out. Advertisers who produce average results without AI will eventually be replaced by those who use it. Those who survive will be the ones most educated about what's changing and how to take advantage of it. Full automation is most likely to apply first to the smallest brands; large brands with brand strategy, legal review, and sponsorship decisions are the slowest to see AI replace human judgment
 
 ## Common Mistakes
 
@@ -50,6 +51,7 @@ Your philosophy determines every tactical decision. Advertisers clinging to outd
 
 - [Meta Andromeda: What It Means for Your Ad Strategy](https://www.jonloomer.com/meta-andromeda/)
 - [How My Meta Ads Approach Has Changed](https://www.jonloomer.com/meta-ads-approach-changed/)
+- [The Future of the Meta Advertiser](https://www.jonloomer.com/future-of-meta-advertiser/)
 
 ---
 

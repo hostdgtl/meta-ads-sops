@@ -1,6 +1,6 @@
 # Value Rules
 
-> **Source:** Jon Loomer | **Last Updated:** 2026-04-28 | **Status:** Complete
+> **Source:** Jon Loomer | **Last Updated:** 2026-05-18 | **Status:** Complete
 
 ---
 
@@ -19,6 +19,7 @@ You have information Meta doesn't have about which customers are most valuable. 
 3. Unlike hard restrictions, Value Rules don't exclude anyone — they adjust bid aggressiveness
 4. Works with conversion optimization to steer toward higher-value outcomes
 5. **Example:** Wine brand sees 40% of A+ spend going to 65+. Set a bid multiplier valuing 25-40 conversions higher. Meta shifts delivery without shrinking the audience pool
+6. **Updated UI (May 2026):** Value Rules are now organized into two categories — **Conversion Location** (Website, App, Instant Forms) and **Placements**. Rules can also be added directly from the Placements section of the ad set, not just from campaign settings
 
 ## Common Mistakes
 
@@ -28,7 +29,7 @@ You have information Meta doesn't have about which customers are most valuable. 
 
 ## How to Apply It
 
-- Look for Value Rules or Value Rules for Audiences in campaign settings
+- Look for Value Rules or Value Rules for Audiences in campaign settings, or add them directly from the Placements section of the ad set
 - Identify which customer segments drive the most revenue or LTV
 - Set bid multipliers for those segments
 - Monitor delivery via Audience Segments and demographic breakdowns
@@ -49,6 +50,7 @@ You have information Meta doesn't have about which customers are most valuable. 
 
 - [Meta Value Rules for Audiences Explained](https://www.jonloomer.com/meta-value-rules-audiences/)
 - [New Value Rules for Audiences, GTM Updates, and More](https://www.jonloomer.com/new-value-rules-for-audiences/)
+- [One-Click CAPI Activated, New Meta Ads Features, and More](https://www.jonloomer.com/one-click-capi-activated-new-meta-ads-features/)
 
 ---
 

@@ -1,6 +1,6 @@
 # Ad Creation
 
-> **Source:** Jon Loomer | **Last Updated:** 2026-04-28 | **Status:** Complete
+> **Source:** Jon Loomer | **Last Updated:** 2026-05-18 | **Status:** Complete
 
 ---
 
@@ -26,13 +26,19 @@ With Andromeda processing thousands of ad variations, giving Meta more options l
 - Combine: up to 20 creative variations on top of your original upload
 
 ### Enhancements
-- Enable Advantage+ Creative enhancements: overlays, visual touch-ups, translate text, animation, add music, enhance CTA, relevant comments
+- Enable Advantage+ Creative enhancements: overlays, visual touch-ups, animation, add music, enhance CTA, relevant comments
 - These only activate when they'll improve performance — not applied universally
 - Each enhancement generates a new potential version of your ad
+- **AI Translations (May 2026):** Select up to 12 languages to auto-translate all ad creatives and text, including text embedded in images. All 12 are selected by default — deselect as needed. Can translate full ads or specific elements only. Treat as experimental; review output for sensitive or brand-critical copy before enabling for client accounts
 
 ### Placement Optimization
 - Customize creative by placement — use 9x16 for Reels/Stories
 - Use creative that can crop from 9x16 to 1x1 for feed placements
+
+### Live Video Ads
+- Under Budget & Schedule, you can promote a **current live video** or an **upcoming live video**
+- For a current live video, select the existing post featuring the broadcast under Ad Setup
+- Useful for events, product launches, or live Q&A sessions that benefit from paid amplification
 
 ## Common Mistakes
 
@@ -71,6 +77,7 @@ With Andromeda processing thousands of ad variations, giving Meta more options l
 - [A Standard Approach for Meta Ad Creation](https://www.jonloomer.com/standard-meta-ad-creation/)
 - [Meta Andromeda and Creative Diversification: 7 Examples](https://www.jonloomer.com/meta-andromeda-creative-diversification/)
 - [How I Use Flexible Ad Format](https://www.jonloomer.com/how-i-use-flexible-ad-format/)
+- [One-Click CAPI Activated, New Meta Ads Features, and More](https://www.jonloomer.com/one-click-capi-activated-new-meta-ads-features/)
 
 ---
 

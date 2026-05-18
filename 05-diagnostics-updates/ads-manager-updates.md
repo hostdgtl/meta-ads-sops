@@ -1,6 +1,6 @@
 # Ads Manager Updates
 
-> **Source:** Jon Loomer | **Last Updated:** 2026-05-11 | **Status:** Complete
+> **Source:** Jon Loomer | **Last Updated:** 2026-05-18 | **Status:** Complete
 
 ---
 
@@ -19,9 +19,11 @@ Panicking when the UI changes wastes time. Core advertising concepts remain stab
 - **Meta Ads AI Connectors (open beta):** Allows advertisers to manage campaigns through third-party AI agents (ChatGPT, Claude, etc.) using the MCP standard. Connect by adding `mcp.facebook.com/ads` as a custom connector and signing in with your Meta account — no developer credentials or coding required. Supports four capabilities: reporting/insights, campaign creation and editing, product catalog management, and signal/CAPI diagnostics. Access is not yet universal. Jon Loomer recommends caution — prior unapproved AI integrations triggered account shutdowns; wait until you're comfortable before implementing
 - **Purchase Audience Retention Expanded to 730 Days:** Starting May 18, 2026, website/app activity custom audiences based on purchase events can be retained for up to 730 days (previously 180 days). Existing 180-day purchase audiences auto-update to 730 days on that date — opt out in Audience Manager beforehand if needed
 - **Higher-Quality Clicks for Link Click / Landing Page View Optimizations:** Meta's documentation now states it "may prioritize higher-quality clicks" when optimizing for link clicks or landing page views. These optimizations have historically driven low-quality traffic via Audience Network — this signals an intent to improve that
-- **One-Click Conversions API:** Simplified CAPI setup for supported platforms — no developer needed (continues expanding)
+- **One-Click CAPI Now Active:** One-Click Conversions API has begun activating automatically for eligible accounts in Events Manager. If web CAPI previously failed to connect, try again — it may now be live. No-cost, no developer, no ongoing maintenance required
+- **AI Translations (New):** In the ad creation flow, you can now select up to 12 languages for automatic translation of all ad creatives and text, including text on images. All 12 languages are selected by default — deselect individually if needed. Option exists to translate the full ad or only specific parts. Treat as experimental; review output for sensitive or brand-critical copy
+- **Live Video Ads (New):** Under Budget & Schedule, you can now choose to promote a current live video or an upcoming live video. For a current live video, select an existing post featuring the live broadcast under Ad Setup
 - **Pixel Upgrades:** Enhanced tracking capabilities and setup flow
-- **Value Rules for Audiences:** New feature allowing bid multipliers by custom audience, age, or gender
+- **Value Rules Reorganized:** Value Rules are now categorized into Conversion Location (Website, App, Instant Forms) and Placements. You can now add and configure Value Rules directly from the Placements section of the ad set — not just from campaign settings
 - **Dynamic Creative Changes:** Evolution of the Dynamic Creative feature into Flexible Format
 - **Expanded Audience Labels:** Clearer labeling of how Advantage+ Audience works
 - **Breakdowns Restored for Conversions:** Previously removed breakdown options for conversion reporting brought back
@@ -69,6 +71,8 @@ Panicking when the UI changes wastes time. Core advertising concepts remain stab
 - [Meta Ads AI Connectors, App Usage Drops, and More](https://www.jonloomer.com/meta-ads-ai-connectors/)
 - [Meta Ads AI Connectors and Claude: Setup, Uses, and Risks](https://www.jonloomer.com/meta-ads-ai-connectors-claude/)
 - [ChatGPT Ads Go Self-Serve, Purchase Retention Expands, and More](https://www.jonloomer.com/chatgpt-ads-self-serve/)
+- [One-Click CAPI Activated, New Meta Ads Features, and More](https://www.jonloomer.com/one-click-capi-activated-new-meta-ads-features/)
+- [The Future of the Meta Advertiser](https://www.jonloomer.com/future-of-meta-advertiser/)
 
 ---
 
