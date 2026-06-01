@@ -1,6 +1,6 @@
 # Ad Creation
 
-> **Source:** Jon Loomer | **Last Updated:** 2026-05-18 | **Status:** Complete
+> **Source:** Jon Loomer | **Last Updated:** 2026-06-01 | **Status:** Complete
 
 ---
 
@@ -30,6 +30,7 @@ With Andromeda processing thousands of ad variations, giving Meta more options l
 - These only activate when they'll improve performance — not applied universally
 - Each enhancement generates a new potential version of your ad
 - **AI Translations (May 2026):** Select up to 12 languages to auto-translate all ad creatives and text, including text embedded in images. All 12 are selected by default — deselect as needed. Can translate full ads or specific elements only. Treat as experimental; review output for sensitive or brand-critical copy before enabling for client accounts
+- **AI Video Generation (caution, May 2026):** Meta's tool generates video ads from still images and quality is improving. A known display/save issue may prevent generated videos from persisting — verify videos actually saved in the media library before publishing
 
 ### Placement Optimization
 - Customize creative by placement — use 9x16 for Reels/Stories
@@ -38,6 +39,8 @@ With Andromeda processing thousands of ad variations, giving Meta more options l
 ### Live Video Ads
 - Under Budget & Schedule, you can promote a **current live video** or an **upcoming live video**
 - For a current live video, select the existing post featuring the broadcast under Ad Setup
+- Supports **any available performance goal** — including optimizing for purchases (not just awareness/traffic)
+- For an upcoming live video, set a start and end date/time to schedule ads to run in sync with your broadcast
 - Useful for events, product launches, or live Q&A sessions that benefit from paid amplification
 
 ## Common Mistakes
@@ -78,6 +81,7 @@ With Andromeda processing thousands of ad variations, giving Meta more options l
 - [Meta Andromeda and Creative Diversification: 7 Examples](https://www.jonloomer.com/meta-andromeda-creative-diversification/)
 - [How I Use Flexible Ad Format](https://www.jonloomer.com/how-i-use-flexible-ad-format/)
 - [One-Click CAPI Activated, New Meta Ads Features, and More](https://www.jonloomer.com/one-click-capi-activated-new-meta-ads-features/)
+- [Meta Ads Grouping Reports, ChatGPT Conversions, and More](https://www.jonloomer.com/meta-ads-grouping-reports-chatgpt-conversions/)
 
 ---
 

@@ -1,6 +1,6 @@
 # Breakdowns
 
-> **Source:** Jon Loomer | **Last Updated:** 2026-04-28 | **Status:** Complete
+> **Source:** Jon Loomer | **Last Updated:** 2026-06-01 | **Status:** Complete
 
 ---
 
@@ -29,6 +29,14 @@ Breakdowns are your diagnostic tool. They replace the need for complex campaign 
 - Meta brought back breakdowns for conversion reporting after previously removing them
 - You can now see conversion data sliced by these dimensions again
 - Use Attribution breakdowns to see conversions by click vs. view attribution
+
+### Grouping (New, May 2026)
+A separate feature located next to the Breakdowns menu in Ads Manager. Available when viewing campaigns or ad sets.
+
+- **Breakdowns** splits each individual campaign or ad set into multiple rows by variable (e.g., one row per attribution setting used within a campaign)
+- **Grouping** aggregates campaigns or ad sets that share the same variable value into a single combined row (e.g., all ad sets using the same attribution setting rolled up together)
+- Four variable categories: **Ad Settings**, **Attribution**, **Budget and Bidding**, **Business Goals**
+- Useful for comparing performance across groups of similar campaigns without building complex report segments manually
 
 ## Common Mistakes
 
@@ -63,6 +71,7 @@ Breakdowns are your diagnostic tool. They replace the need for complex campaign 
 - [Breakdowns in Meta Ads Manager](https://www.jonloomer.com/breakdowns-meta-ads-manager/)
 - [Essential Breakdowns in Meta Ads Manager](https://www.jonloomer.com/essential-breakdowns-meta-ads-manager/)
 - [Meta Is Bringing Back Breakdowns for Conversion Reporting](https://www.jonloomer.com/meta-is-bringing-back-breakdowns-for-conversion-reporting/)
+- [Meta Ads Grouping Reports, ChatGPT Conversions, and More](https://www.jonloomer.com/meta-ads-grouping-reports-chatgpt-conversions/)
 
 ---
 
