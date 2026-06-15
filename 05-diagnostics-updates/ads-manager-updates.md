@@ -1,6 +1,6 @@
 # Ads Manager Updates
 
-> **Source:** Jon Loomer | **Last Updated:** 2026-06-01 | **Status:** Complete
+> **Source:** Jon Loomer | **Last Updated:** 2026-06-15 | **Status:** Complete
 
 ---
 
@@ -14,7 +14,10 @@ Panicking when the UI changes wastes time. Core advertising concepts remain stab
 
 ## How It Works
 
-### Recent Notable Changes (as of May 2026)
+### Recent Notable Changes (as of June 2026)
+
+- **Push Delivery to This Ad (June 2026):** When a published ad is getting limited or no spend within an ad set, Meta now shows an alert and offers a "Push Delivery to This Ad" option. This lets you dedicate a specific percentage of your campaign or ad set budget to that ad for a defined period. Duration range: 1–30 days (the UI suggests 7 days, but that's a recommendation, not a hard cap). Caution: pushing to more than one ad simultaneously risks delivery issues and minimum per-ad spend may not be met. After the push period, delivery reverts to normal algorithmic distribution. Rollout is still incomplete — not all accounts have access yet
+- **Post-View Reels Ads (June 2026, Global Rollout):** A new ad placement that drops between organic Reels clips. Ads auto-play but only appear in Reels longer than 60 seconds. Viewers see a 5-second countdown before a skip button appears; skipping returns them to the original Reel. Now available to all advertisers globally. Eligible via Advantage+ Placements — no manual opt-in required. Provide 9x16 creative to ensure correct formatting in this placement
 
 - **Grouping Reports (New, May 2026):** A new Grouping feature now appears next to the Breakdowns menu in Ads Manager (campaigns and ad sets view). Unlike Breakdowns — which splits each item into rows per variable value — Grouping rolls up campaigns or ad sets that share the same variable value into a single aggregated row. Four variable categories: Ad Settings, Attribution, Budget and Bidding, Business Goals. Useful for comparing performance across structurally similar campaigns without manual filtering. Not yet available to all accounts
 - **Meta Ads AI Connectors (open beta):** Allows advertisers to manage campaigns through third-party AI agents (Claude, ChatGPT, and Perplexity) using the MCP standard. Connect by adding `mcp.facebook.com/ads` as a custom connector and signing in with your Meta account — no developer credentials or coding required. Supports four capabilities: reporting/insights, campaign creation and editing, product catalog management, and signal/CAPI diagnostics. Access is not yet universal. Jon Loomer recommends caution — prior unapproved AI integrations triggered account shutdowns; wait until you're comfortable before implementing
@@ -78,6 +81,8 @@ Panicking when the UI changes wastes time. Core advertising concepts remain stab
 - [The Future of the Meta Advertiser](https://www.jonloomer.com/future-of-meta-advertiser/)
 - [Hands-On With ChatGPT Ads: Initial Impressions](https://www.jonloomer.com/chatgpt-ads-initial-impressions/)
 - [Meta Ads Grouping Reports, ChatGPT Conversions, and More](https://www.jonloomer.com/meta-ads-grouping-reports-chatgpt-conversions/)
+- [Hands-On With Push Delivery to This Ad](https://www.jonloomer.com/hands-on-push-delivery-to-this-ad/)
+- ["Push Delivery to This Ad" (Plus 4 Updates)](https://www.jonloomer.com/push-delivery-to-this-ad/)
 
 ---
 

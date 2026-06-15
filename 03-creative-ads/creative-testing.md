@@ -1,6 +1,6 @@
 # Creative Testing
 
-> **Source:** Jon Loomer | **Last Updated:** 2026-04-28 | **Status:** Complete
+> **Source:** Jon Loomer | **Last Updated:** 2026-06-15 | **Status:** Complete
 
 ---
 
@@ -38,6 +38,14 @@ Adding new creative to a running campaign may not get fair distribution — Meta
 6. Break down by Audience Segments to understand which creative works for which group
 7. Keep winners, pause losers, iterate
 
+### Push Delivery to This Ad (Companion Tool for Existing Ads)
+
+Separate from the Creative Testing tool — this is for an *existing published ad* that has been overshadowed and is receiving limited or no spend. Meta shows an alert when this happens and offers a "Push Delivery to This Ad" option:
+- Dedicate a specified percentage of your budget to that ad for 1–30 days
+- After the push period, delivery returns to normal algorithmic distribution
+- Do not push multiple ads simultaneously — delivery to each may fall short of the per-ad minimum
+- Use this when a specific ad you want to keep running is being starved of spend by a dominant winner
+
 ## When to Make Exceptions
 
 - If you're launching a brand new campaign, you don't need the Creative Testing tool — just load diverse creative from the start
@@ -55,6 +63,8 @@ Adding new creative to a running campaign may not get fair distribution — Meta
 - [Creative Testing in Meta Advertising](https://www.jonloomer.com/creative-testing-meta-advertising/)
 - [Meta Creative Testing Tool](https://www.jonloomer.com/meta-creative-testing/)
 - [Creative Fatigue: What It Is and How to Prevent It](https://www.jonloomer.com/creative-fatigue-meta-ads/)
+- [Hands-On With Push Delivery to This Ad](https://www.jonloomer.com/hands-on-push-delivery-to-this-ad/)
+- [When One Ad Gets All the Budget: Your Options](https://www.jonloomer.com/one-ad-gets-all-the-budget/)
 
 ---
 

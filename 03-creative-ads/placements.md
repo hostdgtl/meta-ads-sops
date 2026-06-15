@@ -1,6 +1,6 @@
 # Placements
 
-> **Source:** Jon Loomer | **Last Updated:** 2026-04-28 | **Status:** Complete
+> **Source:** Jon Loomer | **Last Updated:** 2026-06-15 | **Status:** Complete
 
 ---
 
@@ -18,6 +18,15 @@ Different people consume content in different places. Restricting placements bas
 2. Meta optimizes delivery to placements where your ads are most likely to generate results
 3. Different placements favor different formats — 9x16 for Reels/Stories, 1x1 or 4x5 for feeds
 4. Creative diversification handles placement optimization — provide multiple formats and Meta matches them
+
+### Notable Placement: Post-View Reels Ads (June 2026)
+
+A new placement type that inserts ads between organic Reels clips — similar to mid-roll but positioned between separate Reels rather than inside one. Key mechanics:
+- Only appears in Reels longer than 60 seconds
+- Ads auto-play; viewers see a 5-second countdown before a manual skip button appears
+- Skipping returns the viewer to the original Reel (not forward in the feed)
+- Rolled out globally in June 2026; no manual opt-in required — available via Advantage+ Placements
+- Supply 9x16 vertical creative to display correctly in this context
 
 ## Common Mistakes
 
@@ -51,6 +60,7 @@ Different people consume content in different places. Restricting placements bas
 
 - [How I Use Flexible Ad Format](https://www.jonloomer.com/how-i-use-flexible-ad-format/)
 - [Spot Problematic Meta Ad Placements](https://www.jonloomer.com/spot-problematic-meta-ad-placements/)
+- [Hands-On With Push Delivery to This Ad](https://www.jonloomer.com/hands-on-push-delivery-to-this-ad/)
 
 ---
 
