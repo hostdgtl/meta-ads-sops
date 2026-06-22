@@ -1,6 +1,6 @@
 # Simplified Campaign Construction
 
-> **Source:** Jon Loomer | **Last Updated:** 2026-04-28 | **Status:** Complete
+> **Source:** Jon Loomer | **Last Updated:** 2026-06-22 | **Status:** Complete
 
 ---
 
@@ -14,18 +14,24 @@ Overcomplicating structure wastes time, fragments budget, causes auction overlap
 
 ## How It Works
 
-1. Create one campaign per business goal (e.g., one Sales campaign, one Leads campaign)
-2. Use Advantage+ Sales Campaign as the default campaign type
-3. Keep ad sets to a minimum — you rarely need multiple ad sets for targeting purposes
-4. Load each ad set with diverse creative (10-50 ads using Flexible Format, text variations, etc.)
-5. Let Campaign Budget Optimization (CBO) distribute spend automatically
-6. Monitor results via Audience Segments breakdown, not by splitting audiences into separate ad sets
+1. **Start with one campaign** — the default assumption is a single campaign per business goal. Only add campaigns when a valid, specific exception applies
+2. For virtually every business, only two objectives are truly required: **Sales** (purchases/conversions) and **Leads**. Awareness, traffic, and engagement campaigns are extras that need a clear business justification
+3. Use Advantage+ Sales Campaign as the default campaign type
+4. Keep ad sets to a minimum — you rarely need multiple ad sets for targeting purposes
+5. Load each ad set with diverse creative (10-50 ads using Flexible Format, text variations, etc.)
+6. Let Campaign Budget Optimization (CBO) distribute spend automatically
+7. Monitor results via Audience Segments breakdown, not by splitting audiences into separate ad sets
+
+### Budget Viability Test Before Adding Campaigns
+
+Before splitting budget across multiple campaigns, run this check: estimate your expected cost per optimized action, then multiply by 50 (the rule-of-thumb threshold to exit the learning phase per week). That total is the minimum weekly budget needed to support each campaign. Example: if your CPA is $50, you need ~$2,500/week (~$10,000/month) per campaign to support it properly. The lower your budget, the harder it is to justify splitting across campaigns.
 
 ## Common Mistakes
 
 - Creating separate ad sets for remarketing vs. prospecting (remarketing happens naturally)
 - Splitting audiences by interest, age, or gender into different ad sets
-- Running too many campaigns competing against each other
+- Running too many campaigns competing against each other — if your Campaigns tab is a long list of near-identical campaigns with minor tweaks, you're fragmenting budget without payoff
+- Adding extra campaigns (awareness, traffic, engagement) without a specific business reason
 - Spending all strategic time on structure instead of creative
 
 ## How to Apply It
@@ -52,6 +58,7 @@ Overcomplicating structure wastes time, fragments budget, causes auction overlap
 
 - [Ad Brief Example: Simplified Campaign Construction](https://www.jonloomer.com/ad-brief-example-simplified-campaign-construction)
 - [Meta Andromeda: What It Means for Your Ad Strategy](https://www.jonloomer.com/meta-andromeda/)
+- [How Many Meta Ads Campaigns Should You Have at Once?](https://www.jonloomer.com/how-many-meta-ads-campaigns/)
 
 ---
 

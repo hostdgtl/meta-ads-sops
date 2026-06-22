@@ -1,6 +1,6 @@
 # Creative Testing
 
-> **Source:** Jon Loomer | **Last Updated:** 2026-06-15 | **Status:** Complete
+> **Source:** Jon Loomer | **Last Updated:** 2026-06-22 | **Status:** Complete
 
 ---
 
@@ -19,6 +19,8 @@ Adding new creative to a running campaign may not get fair distribution — Meta
 3. Meta runs the test for a defined period with guaranteed delivery
 4. When completed, the ads integrate into normal delivery
 5. Winning creative gets full delivery; underperformers can be paused
+
+**Ad Limit (Expanding):** Official documentation states up to 5 ads per test, but as of June 2026, some advertisers are reporting the ability to test up to 7 or even 10 ads simultaneously. This appears to be a gradual rollout — test what your account shows.
 
 ## Common Mistakes
 
@@ -65,6 +67,7 @@ Separate from the Creative Testing tool — this is for an *existing published a
 - [Creative Fatigue: What It Is and How to Prevent It](https://www.jonloomer.com/creative-fatigue-meta-ads/)
 - [Hands-On With Push Delivery to This Ad](https://www.jonloomer.com/hands-on-push-delivery-to-this-ad/)
 - [When One Ad Gets All the Budget: Your Options](https://www.jonloomer.com/one-ad-gets-all-the-budget/)
+- [AI Disclosure Checkbox, ChatGPT Attribution, and More](https://www.jonloomer.com/ai-disclosure-checkbox-chatgpt-attribution/)
 
 ---
 

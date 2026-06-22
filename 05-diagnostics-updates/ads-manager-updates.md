@@ -1,6 +1,6 @@
 # Ads Manager Updates
 
-> **Source:** Jon Loomer | **Last Updated:** 2026-06-15 | **Status:** Complete
+> **Source:** Jon Loomer | **Last Updated:** 2026-06-22 | **Status:** Complete
 
 ---
 
@@ -15,6 +15,9 @@ Panicking when the UI changes wastes time. Core advertising concepts remain stab
 ## How It Works
 
 ### Recent Notable Changes (as of June 2026)
+
+- **AI Disclosure Checkbox (June 2026):** A checkbox now appears above the primary text field when creating an ad. If your ad includes media created or edited with AI (Meta's tools or third-party tools like DALL·E, Photoshop AI), check this box — it may add an "AI Info" label visible to viewers. Meta also uses automated detection to add labels regardless, so missing the checkbox doesn't avoid disclosure. Advertisers running in California, New York, India, or Taiwan should treat this as required. The checkbox is easy to miss due to its small footprint in the UI — build checking it into your ad creation workflow
+- **Creative Testing Tool Limit Expanding (June 2026):** Official docs state a maximum of 5 ads per Creative Testing test, but some advertisers now report seeing options for up to 7 or 10. Rollout is gradual — check what your account allows
 
 - **Push Delivery to This Ad (June 2026):** When a published ad is getting limited or no spend within an ad set, Meta now shows an alert and offers a "Push Delivery to This Ad" option. This lets you dedicate a specific percentage of your campaign or ad set budget to that ad for a defined period. Duration range: 1–30 days (the UI suggests 7 days, but that's a recommendation, not a hard cap). Caution: pushing to more than one ad simultaneously risks delivery issues and minimum per-ad spend may not be met. After the push period, delivery reverts to normal algorithmic distribution. Rollout is still incomplete — not all accounts have access yet
 - **Post-View Reels Ads (June 2026, Global Rollout):** A new ad placement that drops between organic Reels clips. Ads auto-play but only appear in Reels longer than 60 seconds. Viewers see a 5-second countdown before a skip button appears; skipping returns them to the original Reel. Now available to all advertisers globally. Eligible via Advantage+ Placements — no manual opt-in required. Provide 9x16 creative to ensure correct formatting in this placement
@@ -83,6 +86,8 @@ Panicking when the UI changes wastes time. Core advertising concepts remain stab
 - [Meta Ads Grouping Reports, ChatGPT Conversions, and More](https://www.jonloomer.com/meta-ads-grouping-reports-chatgpt-conversions/)
 - [Hands-On With Push Delivery to This Ad](https://www.jonloomer.com/hands-on-push-delivery-to-this-ad/)
 - ["Push Delivery to This Ad" (Plus 4 Updates)](https://www.jonloomer.com/push-delivery-to-this-ad/)
+- [AI Disclosure Checkbox, ChatGPT Attribution, and More](https://www.jonloomer.com/ai-disclosure-checkbox-chatgpt-attribution/)
+- [How Many Meta Ads Campaigns Should You Have at Once?](https://www.jonloomer.com/how-many-meta-ads-campaigns/)
 
 ---
 

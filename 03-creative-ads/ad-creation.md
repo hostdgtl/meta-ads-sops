@@ -1,6 +1,6 @@
 # Ad Creation
 
-> **Source:** Jon Loomer | **Last Updated:** 2026-06-01 | **Status:** Complete
+> **Source:** Jon Loomer | **Last Updated:** 2026-06-22 | **Status:** Complete
 
 ---
 
@@ -32,6 +32,13 @@ With Andromeda processing thousands of ad variations, giving Meta more options l
 - **AI Translations (May 2026):** Select up to 12 languages to auto-translate all ad creatives and text, including text embedded in images. All 12 are selected by default — deselect as needed. Can translate full ads or specific elements only. Treat as experimental; review output for sensitive or brand-critical copy before enabling for client accounts
 - **AI Video Generation (caution, May 2026):** Meta's tool generates video ads from still images and quality is improving. A known display/save issue may prevent generated videos from persisting — verify videos actually saved in the media library before publishing
 
+### AI Disclosure Checkbox (June 2026)
+- When creating an ad, a checkbox appears above the primary text field (easy to miss) — check it if your ad includes media created or edited with AI tools (Meta's or third-party, e.g., Photoshop AI, DALL·E)
+- Checking it may add an "AI Info" label to your ad visible to viewers
+- If you run ads in regions with AI disclosure laws — currently **California, New York, India, and Taiwan** — checking the box appears to be legally required
+- Meta also uses "industry-standard detection methods" to add AI labels automatically even if you don't check the box, so disclosure compliance is increasingly non-optional
+- **Current guidance:** Play it safe — if AI was used to generate or alter any creative element, check the box
+
 ### Placement Optimization
 - Customize creative by placement — use 9x16 for Reels/Stories
 - Use creative that can crop from 9x16 to 1x1 for feed placements
@@ -50,6 +57,7 @@ With Andromeda processing thousands of ad variations, giving Meta more options l
 - Not using text variations (submitting a single primary text and headline)
 - Ignoring Related Media suggestions
 - Creating only one format (e.g., all static images, no video)
+- Missing the AI disclosure checkbox when using AI-generated or AI-edited creative — it's hidden above primary text and easy to overlook
 
 ## How to Apply It
 
@@ -82,6 +90,7 @@ With Andromeda processing thousands of ad variations, giving Meta more options l
 - [How I Use Flexible Ad Format](https://www.jonloomer.com/how-i-use-flexible-ad-format/)
 - [One-Click CAPI Activated, New Meta Ads Features, and More](https://www.jonloomer.com/one-click-capi-activated-new-meta-ads-features/)
 - [Meta Ads Grouping Reports, ChatGPT Conversions, and More](https://www.jonloomer.com/meta-ads-grouping-reports-chatgpt-conversions/)
+- [AI Disclosure Checkbox, ChatGPT Attribution, and More](https://www.jonloomer.com/ai-disclosure-checkbox-chatgpt-attribution/)
 
 ---
 
