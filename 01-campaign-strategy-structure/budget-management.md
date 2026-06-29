@@ -1,6 +1,6 @@
 # Budget Management
 
-> **Source:** Jon Loomer | **Last Updated:** 2026-04-28 | **Status:** Complete
+> **Source:** Jon Loomer | **Last Updated:** 2026-06-29 | **Status:** Complete
 
 ---
 
@@ -22,7 +22,7 @@ Fragmenting budget across too many ad sets causes auction overlap and starves th
 
 ## Common Mistakes
 
-- Spreading budget across too many competing ad sets
+- Spreading budget across too many competing ad sets — $100/day concentrated in one ad set outperforms $100 split across five; each additional ad set dilutes the data signal and slows exit from the learning phase
 - Manually splitting budget between remarketing and prospecting ad sets
 - Adjusting budget too frequently and resetting the learning phase
 - Not checking Audience Segments to understand where budget actually goes
@@ -49,6 +49,7 @@ Fragmenting budget across too many ad sets causes auction overlap and starves th
 
 - [Meta Advertising Budget](https://www.jonloomer.com/meta-advertising-budget/)
 - [Ad Brief Example: Simplified Campaign Construction](https://www.jonloomer.com/ad-brief-example-simplified-campaign-construction)
+- [How Many Active Ad Sets Should You Have in a Meta Ads Campaign?](https://www.jonloomer.com/active-ad-sets-meta-ads-campaign/)
 
 ---
 

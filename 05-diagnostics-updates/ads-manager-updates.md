@@ -1,6 +1,6 @@
 # Ads Manager Updates
 
-> **Source:** Jon Loomer | **Last Updated:** 2026-06-22 | **Status:** Complete
+> **Source:** Jon Loomer | **Last Updated:** 2026-06-29 | **Status:** Complete
 
 ---
 
@@ -16,6 +16,8 @@ Panicking when the UI changes wastes time. Core advertising concepts remain stab
 
 ### Recent Notable Changes (as of June 2026)
 
+- **Embedded Appointment Booking for Lead Ads (June 2026):** After submitting an Instant Form, prospects can now book an appointment without leaving the app. The scheduling partner's calendar loads directly inside the Instant Form Thank You page, with contact details carried over automatically. Setup: in the Instant Form editor, select the booking CTA and paste your scheduling link — Meta auto-detects the calendar provider. Supported at launch: Calendly and HighLevel; HubSpot support coming August 2026. Rollout is staged — not all accounts have access yet. Most impactful for service businesses (local, B2B, health, real estate) that rely on booked appointments as the primary conversion event
+- **ChatGPT Ads Conversion Optimization (June 2026):** ChatGPT ads now support conversion-optimized campaigns. Previously, the platform could only track conversions, not optimize delivery toward them — a major limitation. Accounts with a Pixel or Conversions API configured received early access starting June 5th, with broader rollout through June 25th. If you're running ChatGPT ads and haven't checked this yet, verify your conversion event setup in the OpenAI Ads dashboard. This changes the calculus on whether ChatGPT ads can be a performance channel rather than just a brand/awareness play
 - **AI Disclosure Checkbox (June 2026):** A checkbox now appears above the primary text field when creating an ad. If your ad includes media created or edited with AI (Meta's tools or third-party tools like DALL·E, Photoshop AI), check this box — it may add an "AI Info" label visible to viewers. Meta also uses automated detection to add labels regardless, so missing the checkbox doesn't avoid disclosure. Advertisers running in California, New York, India, or Taiwan should treat this as required. The checkbox is easy to miss due to its small footprint in the UI — build checking it into your ad creation workflow
 - **Creative Testing Tool Limit Expanding (June 2026):** Official docs state a maximum of 5 ads per Creative Testing test, but some advertisers now report seeing options for up to 7 or 10. Rollout is gradual — check what your account allows
 
@@ -88,6 +90,8 @@ Panicking when the UI changes wastes time. Core advertising concepts remain stab
 - ["Push Delivery to This Ad" (Plus 4 Updates)](https://www.jonloomer.com/push-delivery-to-this-ad/)
 - [AI Disclosure Checkbox, ChatGPT Attribution, and More](https://www.jonloomer.com/ai-disclosure-checkbox-chatgpt-attribution/)
 - [How Many Meta Ads Campaigns Should You Have at Once?](https://www.jonloomer.com/how-many-meta-ads-campaigns/)
+- [Meta Launches Embedded Appointment Booking for Lead Ads](https://www.socialmediatoday.com/news/meta-launches-integrated-booking-for-lead-ads/823711/)
+- [Jon Loomer Blog — Advertiser Field Notes (June 25, 2026)](https://www.jonloomer.com/blog/)
 
 ---
 
